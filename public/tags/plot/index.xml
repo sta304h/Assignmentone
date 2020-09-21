@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on A Hugo website</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CesR</title>
+      <link>/2020/07/23/cesr/</link>
+      <pubDate>Thu, 23 Jul 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/07/23/cesr/</guid>
+      <description> Abstrack what is this Wickham et al. (2019)
+ Introducation Do something
+ References Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019. “Welcome to the tidyverse.” Journal of Open Source Software 4 (43): 1686. https://doi.org/10.21105/joss.01686.
+   </description>
+    </item>
+    
+  </channel>
+</rss>

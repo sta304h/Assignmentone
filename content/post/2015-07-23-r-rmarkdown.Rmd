@@ -1,0 +1,21 @@
+---
+title: "CesR"
+author: "Frida Gomam"
+date: 2020-07-23T21:13:14-05:00
+bibliography: "references.bib"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Abstrack
+what is this @citetidyverse
+
+# Introducation
+Do something
+
+# References
+
